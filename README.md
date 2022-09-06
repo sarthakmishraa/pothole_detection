@@ -1,5 +1,7 @@
 No of classes : 1
 
+Classes : ['pothole']
+
 ![Detection Snip 1](images/pothole_snip1.jpg)
 
 ![Results](https://github.com/sarthakmishraa/pothole_detection/blob/main/runs/train/results.png)
